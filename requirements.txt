@@ -1,0 +1,13 @@
+nltk
+spacy
+gensim
+transformers
+scikit-learn
+pandas
+numpy
+contractions
+pyahocorasick
+
+
+
+-e .
