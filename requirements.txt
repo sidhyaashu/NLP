@@ -7,7 +7,7 @@ pandas
 numpy
 contractions
 pyahocorasick
-
+textblob
 
 
 -e .
